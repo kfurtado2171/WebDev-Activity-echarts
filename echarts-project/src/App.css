@@ -1,0 +1,10 @@
+.vizContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+}
+.echarts-for-react {
+  width: 80%;
+  height: 100%;
+}
